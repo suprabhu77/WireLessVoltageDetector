@@ -26,7 +26,7 @@ Similarly, if we add another transistor, the total gain is gain of single transi
 <h1>Circuit Diagram</h1>
 <center>
 
-![cktdiagram](with1v.png)
+![cktdiagram](with1V.png)
 
 </center>
 
@@ -56,8 +56,10 @@ when the circuit detetcts Low voltage i.e 1 V led remains off or turned off.
 
 ![image](with12V.png)
 <center>
+  
 When the Voltage is 12V Led Turned On
 <center>
+  
 </center>
 
 <br>
@@ -71,6 +73,7 @@ When the Voltage is 12V Led Turned On
 When the Voltage is 1V Led Turned On
 
 </center>
+
 </center>
 
 
